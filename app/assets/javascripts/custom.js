@@ -5,3 +5,6 @@
 //
 //
 
+//$(function(){
+//    alert('foobar');
+//  });

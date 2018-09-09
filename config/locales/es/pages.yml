@@ -17,7 +17,8 @@ es:
         processes: "Procesos legislativos"
       debates:
         title: "Debates"
-        description: "En la sección de %{link} puedes exponer y compartir tu opinión con otras personas sobre temas que te preocupan relacionados con la ciudad. También es un espacio donde generar ideas que a través de las otras secciones de %{org} lleven a actuaciones concretas por parte del Ayuntamiento."
+        #description: "En la sección de %{link} puedes exponer y compartir tu opinión con otras personas sobre temas que te preocupan relacionados con la ciudad. También es un espacio donde generar ideas que a través de las otras secciones de %{org} lleven a actuaciones concretas por parte del Ayuntamiento."
+        description: "En la sección de %{link} puedes exponer y compartir tu opinión con otras personas sobre temas que te preocupan relacionados con tu comunidad, región o país. También es un espacio para generar ideas que a través de las otras secciones de %{org} lleven a actuaciones concretas por parte del Gobierno Nacional."
         link: "debates ciudadanos"
         feature_html: "Puedes abrir debates, comentarlos y valorarlos con los botones de <strong>Estoy de acuerdo</strong> o <strong>No estoy de acuerdo</strong>. Para ello tienes que %{link}."
         feature_link: "registrarte en %{org}"
@@ -25,27 +26,32 @@ es:
         figcaption: 'Botones "Estoy de acuerdo" y "No estoy de acuerdo" para valorar los debates.'
       proposals:
         title: "Propuestas"
-        description: "En la sección de %{link} puedes plantear propuestas para que el Ayuntamiento las lleve a cabo. Las propuestas recaban apoyos, y si alcanzan los apoyos suficientes se someten a votación ciudadana. Las propuestas aprobadas en estas votaciones ciudadanas son asumidas por el Ayuntamiento y se llevan a cabo."
+        #description: "En la sección de %{link} puedes plantear propuestas para que el Ayuntamiento las lleve a cabo. Las propuestas recaban apoyos, y si alcanzan los apoyos suficientes se someten a votación ciudadana. Las propuestas aprobadas en estas votaciones ciudadanas son asumidas por el Ayuntamiento y se llevan a cabo."
+        description: "En la sección de %{link} puedes plantear propuestas para que el Gobierno Nacional las lleve a cabo. Las propuestas recaban apoyos, y si alcanzan los apoyos suficientes se someten a votación ciudadana. Las propuestas aprobadas en estas votaciones ciudadanas son asumidas por el Gobierno Nacional y se llevan a cabo."
         link: "propuestas ciudadanas"
         image_alt: "Botón para apoyar una propuesta"
         figcaption_html: 'Botón para "Apoyar" una propuesta.'
       budgets:
         title: "Presupuestos participativos"
-        description: "La sección de %{link} sirve para que la gente decida de manera directa a qué se destina una parte del presupuesto municipal."
+        #description: "La sección de %{link} sirve para que la gente decida de manera directa a qué se destina una parte del presupuesto municipal."
+        description: "La sección de %{link} sirve para que la gente decida de manera directa a qué se destina una parte del presupuesto para inversión social."
         link: "presupuestos participativos"
         image_alt: "Diferentes fases de un presupuesto participativo"
         figcaption_html: 'Fase de "Apoyos" y fase de "Votación" de los presupuestos participativos.'
       polls:
         title: "Votaciones"
-        description: "La sección de %{link} se activa cada vez que una propuesta alcanza el 1% de apoyos y pasa a votación o cuando el Ayuntamiento propone un tema para que la gente decida sobre él."
+        #description: "La sección de %{link} se activa cada vez que una propuesta alcanza el 1% de apoyos y pasa a votación o cuando el Ayuntamiento propone un tema para que la gente decida sobre él."
+        description: "La sección de %{link} se activa cada vez que una propuesta alcanza el 1% de apoyos y pasa a votación o cuando el Gobierno Nacional propone un tema para que la gente decida sobre él."
         link: "votaciones ciudadanas"
         feature_1: "Para participar en las votaciones tienes que %{link} y verificar tu cuenta."
         feature_1_link: "registrarte en %{org_name}"
       processes:
         title: "Procesos legislativos"
-        description: "En la sección de %{link} la ciudadanía participa en la elaboración y modificación de normativa que afecta a la ciudad y puede dar su opinión sobre las políticas municipales en debates previos."
+        #description: "En la sección de %{link} la ciudadanía participa en la elaboración y modificación de normativa que afecta a la ciudad y puede dar su opinión sobre las políticas municipales en debates previos."
+        description: "En la sección de %{link} la ciudadanía participa en la elaboración y modificación de normativa que afecta al país y puede dar su opinión sobre las políticas públicas en debates previos."
         link: "procesos legislativos"
-        feature: "Para participar en un proceso hay que %{sign_up} y consultar la página de %{link} periódicamente para saber qué normativas y políticas se están debatiendo y consultando."
+        #feature: "Para participar en un proceso hay que %{sign_up} y consultar la página de %{link} periódicamente para saber qué normativas y políticas se están debatiendo y consultando."
+        feature: "Para participar en un proceso hay que %{sign_up} y consultar la página de procesos legislativos periódicamente para saber qué normativas y políticas se están debatiendo y consultando."
         sign_up: "registrarse en %{org}"
       faq:
         title: "¿Problemas técnicos?"
@@ -74,7 +80,8 @@ es:
       info_items:
         - text: La navegación por la informacion disponible en el Portal de Gobierno Abierto es anónima.
         - text: Para utilizar los servicios contenidos en el Portal de Gobierno Abierto el usuario deberá darse de alta y proporcionar previamente los datos de carácter personal segun la informacion especifica que consta en cada tipo de alta.
-        - text: 'Los datos aportados serán incorporados y tratados por el Ayuntamiento de acuerdo con la descripción del fichero siguiente:'
+        #- text: 'Los datos aportados serán incorporados y tratados por el Ayuntamiento de acuerdo con la descripción del fichero siguiente:'
+        - text: 'Los datos aportados serán incorporados y tratados por el Gobierno Nacional de acuerdo con la descripción del fichero siguiente:'
         - subitems:
           - field: 'Nombre del fichero/tratamiento:'
             description: NOMBRE DEL FICHERO

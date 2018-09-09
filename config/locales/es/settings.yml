@@ -76,7 +76,8 @@ es:
     proposal_improvement_path: Link a información para mejorar propuestas
     feature:
       budgets: "Presupuestos participativos"
-      budgets_description: "Con los presupuestos participativos la ciudadanía decide a qué proyectos presentados por los vecinos y vecinas va destinada una parte del presupuesto municipal"
+      #budgets_description: "Con los presupuestos participativos la ciudadanía decide a qué proyectos presentados por los vecinos y vecinas va destinada una parte del presupuesto municipal"
+      budgets_description: "Con los presupuestos participativos la ciudadanía decide a qué proyectos presentados por los vecinos y vecinas va destinada una parte del presupuesto para inversión social"
       twitter_login: "Registro con Twitter"
       twitter_login_description: "Permitir que los usuarios se registren con su cuenta de Twitter"
       facebook_login: "Registro con Facebook"
@@ -92,7 +93,8 @@ es:
       signature_sheets: "Hojas de firmas"
       signature_sheets_description: "Permite añadir desde el panel de Administración firmas recogidas de forma presencial a Propuestas y proyectos de gasto de los Presupuestos participativos"
       legislation: "Legislación colaborativa"
-      legislation_description: "En los procesos participativos se ofrece a la ciudadanía la oportunidad de participar en la elaboración y modificación de normativa que afecta a la ciudad y de dar su opinión sobre ciertas actuaciones que se tiene previsto llevar a cabo"
+      #legislation_description: "En los procesos participativos se ofrece a la ciudadanía la oportunidad de participar en la elaboración y modificación de normativa que afecta a la ciudad y de dar su opinión sobre ciertas actuaciones que se tiene previsto llevar a cabo"
+      legislation_description: "En los procesos participativos se ofrece a la ciudadanía la oportunidad de participar en la elaboración y modificación de normativa que afecta al país y de dar su opinión sobre ciertas actuaciones que se tiene previsto llevar a cabo"
       spending_proposals: "Propuestas de inversión"
       spending_proposals_description: "⚠️ NOTA: Esta funcionalidad ha sido sustituida por Pesupuestos Participativos y desaparecerá en nuevas versiones"
       spending_proposal_features:

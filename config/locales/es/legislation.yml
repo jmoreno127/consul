@@ -70,7 +70,7 @@ es:
           help: Ayuda sobre procesos legislativos
         section_footer:
           title: Ayuda sobre procesos legislativos
-          description: Participa en los debates y procesos previos a la aprobación de una norma o de una actuación municipal. Tu opinión será tenida en cuenta por el Ayuntamiento.
+          description: Participa en los debates y procesos previos a la aprobación de una norma o ley. Tu opinión será tenida en cuenta por el Gobierno Nacional.
       phase_not_open:
         not_open: Esta fase del proceso todavía no está abierta
       phase_empty:

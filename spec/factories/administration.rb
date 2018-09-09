@@ -41,7 +41,8 @@ FactoryBot.define do
     more_info_flag false
     print_content_flag false
     status 'draft'
-    locale 'en'
+    #locale 'en'
+    locale 'es'
 
     trait :published do
       status "published"

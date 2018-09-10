@@ -1,0 +1,11 @@
+I"î(function() {
+  App.SendAdminNotificationAlert = {
+    initialize: function() {
+      return $('#js-send-admin_notification-alert').on('click', function() {
+        return confirm(this.dataset.alert);
+      });
+    }
+  };
+
+}).call(this);
+:ET

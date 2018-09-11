@@ -2239,3 +2239,67 @@
 [2018-09-10 10:00:10 -0500 Jonathans-MacBook-Pro.local (1294)] ERROR : Invalid license key, please contact support@newrelic.com
 [2018-09-10 10:00:10 -0500 Jonathans-MacBook-Pro.local (1294)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
 [2018-09-10 10:29:17 -0500 Jonathans-MacBook-Pro.local (1294)] INFO : Starting Agent shutdown
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Reading configuration from config/newrelic.yml (/Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul)
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Environment: development
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Dispatcher: webrick
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Application: CONSUL (Development)
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Net instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing ActiveJob instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Rails 4 Controller instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Installing Rails 4 view instrumentation
+[2018-09-10 17:59:31 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Finished instrumentation
+[2018-09-10 17:59:33 -0500 Jonathans-MacBook-Pro.local (4771)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Reading configuration from config/newrelic.yml (/Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul)
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Environment: development
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Dispatcher: webrick
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Application: CONSUL (Development)
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Net instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing ActiveJob instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Rails 4 Controller instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Installing Rails 4 view instrumentation
+[2018-09-10 21:36:44 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Finished instrumentation
+[2018-09-10 21:36:46 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-09-10 21:37:00 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-09-10 21:37:01 -0500 Jonathans-MacBook-Pro.local (5607)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-09-10 21:37:01 -0500 Jonathans-MacBook-Pro.local (5607)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-09-10 21:37:30 -0500 Jonathans-MacBook-Pro.local (5607)] INFO : Starting Agent shutdown
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Starting the New Relic agent version 4.1.0.333 in "development" environment.
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Reading configuration from config/newrelic.yml (/Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul)
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Environment: development
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Dispatcher: webrick
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Application: CONSUL (Development)
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing ActiveRecord 4 instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Net instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing ActiveJob instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Rails 4 Controller instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Installing Rails 4 view instrumentation
+[2018-09-10 22:24:13 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Finished instrumentation
+[2018-09-10 22:24:24 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-09-10 22:25:04 -0500 Jonathans-MacBook-Pro.local (5949)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-09-10 22:25:05 -0500 Jonathans-MacBook-Pro.local (5949)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-09-10 22:25:05 -0500 Jonathans-MacBook-Pro.local (5949)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.

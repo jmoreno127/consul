@@ -4325,3 +4325,718 @@ Call stack
   /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb__1078156206667703552_70349873950820'
   /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___4521479867431929430_70349859009080'
 
+2018-09-10 22:33:18[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349618986640'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349857571860'
+
+2018-09-10 22:33:18[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349618986640'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349857571860'
+
+2018-09-10 22:36:40[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=dolor
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:36:40[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=dolor
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:38:03[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Dolor+modi+
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:38:03[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Dolor+modi+
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:38:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Sit+dolor
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:38:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Sit+dolor
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:39:50[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Et+sed
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:39:50[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Et+sed
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:41:38[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Et+sed
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:41:38[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals?utf8=%E2%9C%93&search=Et+sed
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb___608734199268952511_70349879195140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb__663373305107084102_70349627427180'
+
+2018-09-10 22:45:20[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 22:45:20[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 22:45:47[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 22:45:47[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 22:47:22[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286489750960'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742620020'
+
+2018-09-10 22:47:22[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/cache_keys_helper.rb:17:in `calculate_user_status'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/cache_keys_helper.rb:4:in `locale_and_user_status'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286489750960'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742620020'
+
+2018-09-10 22:58:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/debates
+USE eager loading detected
+  Debate => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/_debate.html.erb:15:in `block in _app_views_debates__debate_html_erb__1088629249963032495_70286634764060'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/_debate.html.erb:1:in `_app_views_debates__debate_html_erb__1088629249963032495_70286634764060'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/index.html.erb:71:in `_app_views_debates_index_html_erb__1917493646874568977_70286661428640'
+
+2018-09-10 22:59:46[WARN] user: jonathanmorenon
+GET http://localhost:3000/debates
+USE eager loading detected
+  Debate => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/_debate.html.erb:15:in `block in _app_views_debates__debate_html_erb__1088629249963032495_70286750332360'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/_debate.html.erb:1:in `_app_views_debates__debate_html_erb__1088629249963032495_70286750332360'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/debates/index.html.erb:71:in `_app_views_debates_index_html_erb__1917493646874568977_70286661613000'
+
+2018-09-10 23:05:18[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:4:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 23:05:18[WARN] user: jonathanmorenon
+GET http://localhost:3000/proposals
+USE eager loading detected
+  Proposal => [:author]
+  Add to your finder: :includes => [:author]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/cache_keys_helper.rb:17:in `calculate_user_status'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/cache_keys_helper.rb:4:in `locale_and_user_status'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/_proposal.html.erb:23:in `_app_views_proposals__proposal_html_erb__4058798298886472764_70286726813440'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/proposals/index.html.erb:87:in `_app_views_proposals_index_html_erb___744230269393408620_70286742335760'
+
+2018-09-10 23:16:20[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:11:in `block (2 levels) in _app_views_welcome__feeds_html_erb__2031086933362526932_70286656058180'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:9:in `block in _app_views_welcome__feeds_html_erb__2031086933362526932_70286656058180'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `each'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `_app_views_welcome__feeds_html_erb__2031086933362526932_70286656058180'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:19:in `_app_views_welcome_index_html_erb__4533141131349330466_70286738949220'
+
+2018-09-10 23:16:20[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb__904341971067611701_70286648834420'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb__904341971067611701_70286648834420'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___1956602749466897188_70286720248320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___1956602749466897188_70286720248320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb__4533141131349330466_70286738949220'
+
+2018-09-11 12:35:27[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:11:in `block (2 levels) in _app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:9:in `block in _app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `each'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `_app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:19:in `_app_views_welcome_index_html_erb___1625295730344351294_70312000042480'
+
+2018-09-11 12:35:27[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb__2246050493941435588_70311996409320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb__2246050493941435588_70311996409320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb__4341155672661190446_70311996530520'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb__4341155672661190446_70311996530520'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___1625295730344351294_70312000042480'
+
+2018-09-11 12:35:35[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:11:in `block (2 levels) in _app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:9:in `block in _app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `each'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `_app_views_welcome__feeds_html_erb__407753068454363169_70312048956480'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:19:in `_app_views_welcome_index_html_erb___1625295730344351294_70312000042480'
+
+2018-09-11 12:35:35[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb__2246050493941435588_70311996409320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb__2246050493941435588_70311996409320'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb__4341155672661190446_70311996530520'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb__4341155672661190446_70311996530520'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___1625295730344351294_70312000042480'
+
+2018-09-11 12:35:36[WARN] user: jonathanmorenon
+POST http://localhost:3000/ahoy/visits
+AVOID eager loading detected
+  Visit => [:user]
+  Remove from your finder: :includes => [:user]
+Call stack
+
+2018-09-11 12:42:13[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:11:in `block (2 levels) in _app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:9:in `block in _app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `each'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `_app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:19:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 12:42:13[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 12:45:51[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Proposal => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:11:in `block (2 levels) in _app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:9:in `block in _app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `each'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_feeds.html.erb:2:in `_app_views_welcome__feeds_html_erb__3750704014319904844_70174365611400'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:19:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 12:45:51[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:organization]
+  Add to your finder: :includes => [:organization]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:151:in `organization?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:93:in `name'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:17:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:administrator]
+  Add to your finder: :includes => [:administrator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:131:in `administrator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:77:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:moderator]
+  Add to your finder: :includes => [:moderator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:135:in `moderator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:78:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:valuator]
+  Add to your finder: :includes => [:valuator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:139:in `valuator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:79:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:manager]
+  Add to your finder: :includes => [:manager]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:143:in `manager?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:80:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 12:48:55[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:poll_officer]
+  Add to your finder: :includes => [:poll_officer]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:147:in `poll_officer?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:81:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:15:50[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174298359140'
+
+2018-09-11 14:29:53[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174298359140'
+
+2018-09-11 14:30:02[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 14:39:14[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:organization]
+  Add to your finder: :includes => [:organization]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:151:in `organization?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:93:in `name'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:17:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:administrator]
+  Add to your finder: :includes => [:administrator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:131:in `administrator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:77:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:moderator]
+  Add to your finder: :includes => [:moderator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:135:in `moderator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:78:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:valuator]
+  Add to your finder: :includes => [:valuator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:139:in `valuator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:79:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:manager]
+  Add to your finder: :includes => [:manager]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:143:in `manager?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:80:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:50:58[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:poll_officer]
+  Add to your finder: :includes => [:poll_officer]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:147:in `poll_officer?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:81:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 14:51:15[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/administrators
+USE eager loading detected
+  Administrator => [:user]
+  Add to your finder: :includes => [:user]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/administrator.rb:3:in `name'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/administrators/index.html.erb:18:in `block in _app_views_admin_administrators_index_html_erb__1686588060583800376_70174291382160'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/administrators/index.html.erb:15:in `_app_views_admin_administrators_index_html_erb__1686588060583800376_70174291382160'
+
+2018-09-11 14:51:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 14:52:31[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 15:16:16[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
+2018-09-11 15:23:10[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/administrators
+USE eager loading detected
+  Administrator => [:user]
+  Add to your finder: :includes => [:user]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/administrator.rb:3:in `name'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/administrators/index.html.erb:18:in `block in _app_views_admin_administrators_index_html_erb__1686588060583800376_70174410992540'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/administrators/index.html.erb:15:in `_app_views_admin_administrators_index_html_erb__1686588060583800376_70174410992540'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:organization]
+  Add to your finder: :includes => [:organization]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:151:in `organization?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:93:in `name'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:17:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:administrator]
+  Add to your finder: :includes => [:administrator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:131:in `administrator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:77:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:moderator]
+  Add to your finder: :includes => [:moderator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:135:in `moderator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:78:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:valuator]
+  Add to your finder: :includes => [:valuator]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:139:in `valuator?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:79:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:manager]
+  Add to your finder: :includes => [:manager]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:143:in `manager?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:80:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:23:41[WARN] user: jonathanmorenon
+GET http://localhost:3000/admin/users
+USE eager loading detected
+  User => [:poll_officer]
+  Add to your finder: :includes => [:poll_officer]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/models/user.rb:147:in `poll_officer?'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:81:in `user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/helpers/admin_helper.rb:88:in `display_user_roles'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:20:in `block in _app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/_users.html.erb:15:in `_app_views_admin_users__users_html_erb___2409969725613463837_70174303460560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/admin/users/index.html.erb:16:in `_app_views_admin_users_index_html_erb___1965351780792907349_70174406972240'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/controllers/admin/users_controller.rb:7:in `index'
+
+2018-09-11 15:26:53[WARN] user: jonathanmorenon
+POST http://localhost:3000/ahoy/visits
+AVOID eager loading detected
+  Visit => [:user]
+  Remove from your finder: :includes => [:user]
+Call stack
+
+2018-09-11 15:27:32[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174405612140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174291412560'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174298359140'
+
+2018-09-11 15:27:49[WARN] user: jonathanmorenon
+GET http://localhost:3000/
+USE eager loading detected
+  Widget::Card => [:image]
+  Add to your finder: :includes => [:image]
+Call stack
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:5:in `block in _app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_card.html.erb:2:in `_app_views_welcome__card_html_erb___1921629558791281635_70174301929380'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:5:in `block in _app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/_cards.html.erb:4:in `_app_views_welcome__cards_html_erb___3359488633377289805_70174289623140'
+  /Users/jonathanmorenon/OneDrive/Freelance/Duque Presidente/EGovernment/consul/app/views/welcome/index.html.erb:24:in `_app_views_welcome_index_html_erb___3149407299937219014_70174288515800'
+
